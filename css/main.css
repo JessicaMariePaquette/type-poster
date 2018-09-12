@@ -1,0 +1,55 @@
+body {
+	background-image: url(../img/paige-weber-972801-unsplash.jpg);
+	background-size: cover;
+}
+
+main {
+	height: auto;
+	width: 78%;
+	margin: auto;
+
+}
+
+a:link{
+color: #b3ecff;
+
+}
+
+a:visited{
+color: white;
+
+}
+
+a:hover{
+	color:#b19cd9;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 800;
+	color: white;
+	font-size:6rem;
+	text-align: center;
+	line-height: 1rem;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	color: #a6a6a6;
+	text-align: center;
+	line-height: 1rem;
+	font-size: 4rem;
+	padding-left: 12rem;
+}
+
+footer {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	color: #b3ecff;
+	left: 30%;
+	bottom: 0%;
+	width:43%;
+	position: fixed;
+	padding-right: 28.25rem;
+}
